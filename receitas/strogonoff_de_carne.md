@@ -11,5 +11,10 @@
 Cheiro verde a gosto
 
 ## Modo de preparo
+1. Coloque a carne numa panela com o óleo já aquecido;
+2. Depois de acrescente a cebola picada ou fatiada na 
+	panela e deixe cozir por 5 minutos;
+3. ...
 
+### NOTAS:
 (usar o typora já atende o padrão de markdown)
